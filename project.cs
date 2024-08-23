@@ -52,6 +52,7 @@ namespace ConsoleApp4
                 foreach (Fruit menuu in fruits)
                 {
                     Console.WriteLine(menuu.name, menuu.weight, menuu.price);
+                 
                     
                 }
             }
